@@ -1,12 +1,17 @@
-# Quartus generated files
-db/
-incremental_db/
-output_files/
-simulation/
+# FPGA-Based Fetal Heartbeat Detection using PCG Signals
 
-# Backup files
-*.bak
+## Overview
+This project implements signal denoising and real-time fetal heartbeat detection using PCG signals on FPGA.
 
-# Other
-*.zip
-*.lnk
+## Tools Used
+- MATLAB
+- Intel Quartus Prime
+
+## Files
+- Verilog modules for FPGA design
+- MATLAB scripts for preprocessing
+- PCG signal datasets
+
+## Applications
+- Fetal health monitoring
+- Biomedical signal processing
